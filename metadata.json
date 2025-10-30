@@ -1,0 +1,5 @@
+{
+  "name": "XML to JSON Extractor",
+  "description": "A powerful tool that uses AI to find XML data within unstructured text and converts it into a clean, well-formatted JSON object.",
+  "requestFramePermissions": []
+}
